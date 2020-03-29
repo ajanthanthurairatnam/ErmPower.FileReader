@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "kYRAxbomq9pRDMO/MwVCYbMfGrqhOVczpH5GxZ/vRC6B72GWM2xnobCRSPLdki+PVfz3stURibNaulqQwAssyg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ajant\\source\\repos\\ErmPower.FileReader\\ErmPower.FileReader.Core\\ErmPower.FileReader.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ajant\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ajant\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

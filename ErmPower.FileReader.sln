@@ -1,0 +1,80 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{2507C031-87CE-46FA-B309-F44642EFF0E4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastrcture", "Infrastrcture", "{399AFE7D-7FB9-450C-A1B7-932E2DD19366}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ApplicationCore", "ApplicationCore", "{CCC78163-445D-44B8-B244-D092FC7FFDFA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{55233A94-EF5F-4C1A-B826-ABAAF7924C60}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{B02F4B69-F619-4195-B1B5-E99DA8883878}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ErmPower.FileReader.ConsoleUserInterface", "ErmPower.FileReader.ConsoleUserInterface\ErmPower.FileReader.ConsoleUserInterface.csproj", "{88F78578-382E-4031-8E95-503CD0A3F64C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ErmPower.FileReader.Data", "ErmPower.FileReader.Data\ErmPower.FileReader.Data.csproj", "{D46309BD-C575-4D13-9EDB-EE5294129E7C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ErmPower.FileReader.Business", "ErmPower.FileReader.Business\ErmPower.FileReader.Business.csproj", "{796B447E-8127-459A-A53D-E265762F8BEC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ErmPower.FileReader.Tests", "ErmPower.FileReader.Tests\ErmPower.FileReader.Tests.csproj", "{B08F7608-86D3-4E2A-8627-EFD6DB7D42FE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DataFramework", "DataFramework", "{B071E966-818A-4EAC-9D42-B591B29C12F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ErmPower.FileReader.DataAccessFramework", "ErmPower.FileReader.DataAccessFramework\ErmPower.FileReader.DataAccessFramework.csproj", "{6CF56362-8336-4698-841D-50028165556B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ErmPower.FileReader.Core", "ErmPower.FileReader.Core\ErmPower.FileReader.Core.csproj", "{B9507B7F-8794-4FD5-8272-D0B854508C50}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88F78578-382E-4031-8E95-503CD0A3F64C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88F78578-382E-4031-8E95-503CD0A3F64C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88F78578-382E-4031-8E95-503CD0A3F64C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88F78578-382E-4031-8E95-503CD0A3F64C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D46309BD-C575-4D13-9EDB-EE5294129E7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D46309BD-C575-4D13-9EDB-EE5294129E7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D46309BD-C575-4D13-9EDB-EE5294129E7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D46309BD-C575-4D13-9EDB-EE5294129E7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{796B447E-8127-459A-A53D-E265762F8BEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{796B447E-8127-459A-A53D-E265762F8BEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{796B447E-8127-459A-A53D-E265762F8BEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{796B447E-8127-459A-A53D-E265762F8BEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B08F7608-86D3-4E2A-8627-EFD6DB7D42FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B08F7608-86D3-4E2A-8627-EFD6DB7D42FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B08F7608-86D3-4E2A-8627-EFD6DB7D42FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B08F7608-86D3-4E2A-8627-EFD6DB7D42FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CF56362-8336-4698-841D-50028165556B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CF56362-8336-4698-841D-50028165556B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CF56362-8336-4698-841D-50028165556B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CF56362-8336-4698-841D-50028165556B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9507B7F-8794-4FD5-8272-D0B854508C50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9507B7F-8794-4FD5-8272-D0B854508C50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9507B7F-8794-4FD5-8272-D0B854508C50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9507B7F-8794-4FD5-8272-D0B854508C50}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{399AFE7D-7FB9-450C-A1B7-932E2DD19366} = {2507C031-87CE-46FA-B309-F44642EFF0E4}
+		{CCC78163-445D-44B8-B244-D092FC7FFDFA} = {2507C031-87CE-46FA-B309-F44642EFF0E4}
+		{55233A94-EF5F-4C1A-B826-ABAAF7924C60} = {2507C031-87CE-46FA-B309-F44642EFF0E4}
+		{B02F4B69-F619-4195-B1B5-E99DA8883878} = {2507C031-87CE-46FA-B309-F44642EFF0E4}
+		{88F78578-382E-4031-8E95-503CD0A3F64C} = {B02F4B69-F619-4195-B1B5-E99DA8883878}
+		{D46309BD-C575-4D13-9EDB-EE5294129E7C} = {399AFE7D-7FB9-450C-A1B7-932E2DD19366}
+		{796B447E-8127-459A-A53D-E265762F8BEC} = {CCC78163-445D-44B8-B244-D092FC7FFDFA}
+		{B08F7608-86D3-4E2A-8627-EFD6DB7D42FE} = {55233A94-EF5F-4C1A-B826-ABAAF7924C60}
+		{B071E966-818A-4EAC-9D42-B591B29C12F9} = {399AFE7D-7FB9-450C-A1B7-932E2DD19366}
+		{6CF56362-8336-4698-841D-50028165556B} = {B071E966-818A-4EAC-9D42-B591B29C12F9}
+		{B9507B7F-8794-4FD5-8272-D0B854508C50} = {399AFE7D-7FB9-450C-A1B7-932E2DD19366}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA67400F-79D4-4F9E-BFA4-77DA4C7F42CD}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,16 @@
+C:\Users\ajant\source\repos\ErmPower.FileReader\ErmPower.FileReader.Business\bin\Debug\netstandard2.0\ErmPower.FileReader.Business.deps.json
+C:\Users\ajant\source\repos\ErmPower.FileReader\ErmPower.FileReader.Business\bin\Debug\netstandard2.0\ErmPower.FileReader.Business.dll
+C:\Users\ajant\source\repos\ErmPower.FileReader\ErmPower.FileReader.Business\bin\Debug\netstandard2.0\ErmPower.FileReader.Business.pdb
+C:\Users\ajant\source\repos\ErmPower.FileReader\ErmPower.FileReader.Business\bin\Debug\netstandard2.0\ErmPower.FileReader.Data.dll
+C:\Users\ajant\source\repos\ErmPower.FileReader\ErmPower.FileReader.Business\bin\Debug\netstandard2.0\ErmPower.FileReader.Data.pdb
+C:\Users\ajant\source\repos\ErmPower.FileReader\ErmPower.FileReader.Business\obj\Debug\netstandard2.0\ErmPower.FileReader.Business.csprojAssemblyReference.cache
+C:\Users\ajant\source\repos\ErmPower.FileReader\ErmPower.FileReader.Business\obj\Debug\netstandard2.0\ErmPower.FileReader.Business.csproj.CoreCompileInputs.cache
+C:\Users\ajant\source\repos\ErmPower.FileReader\ErmPower.FileReader.Business\obj\Debug\netstandard2.0\ErmPower.FileReader.Business.AssemblyInfoInputs.cache
+C:\Users\ajant\source\repos\ErmPower.FileReader\ErmPower.FileReader.Business\obj\Debug\netstandard2.0\ErmPower.FileReader.Business.AssemblyInfo.cs
+C:\Users\ajant\source\repos\ErmPower.FileReader\ErmPower.FileReader.Business\obj\Debug\netstandard2.0\ErmPower.FileReader.Business.csproj.CopyComplete
+C:\Users\ajant\source\repos\ErmPower.FileReader\ErmPower.FileReader.Business\obj\Debug\netstandard2.0\ErmPower.FileReader.Business.dll
+C:\Users\ajant\source\repos\ErmPower.FileReader\ErmPower.FileReader.Business\obj\Debug\netstandard2.0\ErmPower.FileReader.Business.pdb
+C:\Users\ajant\source\repos\ErmPower.FileReader\ErmPower.FileReader.Business\bin\Debug\netstandard2.0\ErmPower.FileReader.Core.dll
+C:\Users\ajant\source\repos\ErmPower.FileReader\ErmPower.FileReader.Business\bin\Debug\netstandard2.0\ErmPower.FileReader.DataAccessFramework.dll
+C:\Users\ajant\source\repos\ErmPower.FileReader\ErmPower.FileReader.Business\bin\Debug\netstandard2.0\ErmPower.FileReader.Core.pdb
+C:\Users\ajant\source\repos\ErmPower.FileReader\ErmPower.FileReader.Business\bin\Debug\netstandard2.0\ErmPower.FileReader.DataAccessFramework.pdb

@@ -1,0 +1,8 @@
+C:\Users\ajant\source\repos\ErmPower.FileReader\ErmPower.FileReader.Core\obj\Debug\netstandard2.0\ErmPower.FileReader.Core.csproj.CoreCompileInputs.cache
+C:\Users\ajant\source\repos\ErmPower.FileReader\ErmPower.FileReader.Core\obj\Debug\netstandard2.0\ErmPower.FileReader.Core.AssemblyInfoInputs.cache
+C:\Users\ajant\source\repos\ErmPower.FileReader\ErmPower.FileReader.Core\obj\Debug\netstandard2.0\ErmPower.FileReader.Core.AssemblyInfo.cs
+C:\Users\ajant\source\repos\ErmPower.FileReader\ErmPower.FileReader.Core\bin\Debug\netstandard2.0\ErmPower.FileReader.Core.deps.json
+C:\Users\ajant\source\repos\ErmPower.FileReader\ErmPower.FileReader.Core\bin\Debug\netstandard2.0\ErmPower.FileReader.Core.dll
+C:\Users\ajant\source\repos\ErmPower.FileReader\ErmPower.FileReader.Core\bin\Debug\netstandard2.0\ErmPower.FileReader.Core.pdb
+C:\Users\ajant\source\repos\ErmPower.FileReader\ErmPower.FileReader.Core\obj\Debug\netstandard2.0\ErmPower.FileReader.Core.dll
+C:\Users\ajant\source\repos\ErmPower.FileReader\ErmPower.FileReader.Core\obj\Debug\netstandard2.0\ErmPower.FileReader.Core.pdb

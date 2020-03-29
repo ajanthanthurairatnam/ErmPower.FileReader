@@ -1,0 +1,14 @@
+C:\Users\ajant\source\repos\ErmPower.FileReader\ErmPower.FileReader.Data\bin\Debug\netstandard2.0\ErmPower.FileReader.Data.deps.json
+C:\Users\ajant\source\repos\ErmPower.FileReader\ErmPower.FileReader.Data\bin\Debug\netstandard2.0\ErmPower.FileReader.Data.dll
+C:\Users\ajant\source\repos\ErmPower.FileReader\ErmPower.FileReader.Data\obj\Debug\netstandard2.0\ErmPower.FileReader.Data.AssemblyInfoInputs.cache
+C:\Users\ajant\source\repos\ErmPower.FileReader\ErmPower.FileReader.Data\obj\Debug\netstandard2.0\ErmPower.FileReader.Data.AssemblyInfo.cs
+C:\Users\ajant\source\repos\ErmPower.FileReader\ErmPower.FileReader.Data\bin\Debug\netstandard2.0\ErmPower.FileReader.Data.pdb
+C:\Users\ajant\source\repos\ErmPower.FileReader\ErmPower.FileReader.Data\obj\Debug\netstandard2.0\ErmPower.FileReader.Data.csproj.CoreCompileInputs.cache
+C:\Users\ajant\source\repos\ErmPower.FileReader\ErmPower.FileReader.Data\obj\Debug\netstandard2.0\ErmPower.FileReader.Data.dll
+C:\Users\ajant\source\repos\ErmPower.FileReader\ErmPower.FileReader.Data\obj\Debug\netstandard2.0\ErmPower.FileReader.Data.pdb
+C:\Users\ajant\source\repos\ErmPower.FileReader\ErmPower.FileReader.Data\obj\Debug\netstandard2.0\ErmPower.FileReader.Data.csprojAssemblyReference.cache
+C:\Users\ajant\source\repos\ErmPower.FileReader\ErmPower.FileReader.Data\bin\Debug\netstandard2.0\ErmPower.FileReader.Core.dll
+C:\Users\ajant\source\repos\ErmPower.FileReader\ErmPower.FileReader.Data\bin\Debug\netstandard2.0\ErmPower.FileReader.DataAccessFramework.dll
+C:\Users\ajant\source\repos\ErmPower.FileReader\ErmPower.FileReader.Data\bin\Debug\netstandard2.0\ErmPower.FileReader.DataAccessFramework.pdb
+C:\Users\ajant\source\repos\ErmPower.FileReader\ErmPower.FileReader.Data\bin\Debug\netstandard2.0\ErmPower.FileReader.Core.pdb
+C:\Users\ajant\source\repos\ErmPower.FileReader\ErmPower.FileReader.Data\obj\Debug\netstandard2.0\ErmPower.FileReader.Data.csproj.CopyComplete
