@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.29509.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{2507C031-87CE-46FA-B309-F44642EFF0E4}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastrcture", "Infrastrcture", "{399AFE7D-7FB9-450C-A1B7-932E2DD19366}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{399AFE7D-7FB9-450C-A1B7-932E2DD19366}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ApplicationCore", "ApplicationCore", "{CCC78163-445D-44B8-B244-D092FC7FFDFA}"
 EndProject
@@ -23,9 +23,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ErmPower.FileReader.Tests",
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DataFramework", "DataFramework", "{B071E966-818A-4EAC-9D42-B591B29C12F9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ErmPower.FileReader.DataAccessFramework", "ErmPower.FileReader.DataAccessFramework\ErmPower.FileReader.DataAccessFramework.csproj", "{6CF56362-8336-4698-841D-50028165556B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ErmPower.FileReader.DataAccessFramework", "ErmPower.FileReader.DataAccessFramework\ErmPower.FileReader.DataAccessFramework.csproj", "{6CF56362-8336-4698-841D-50028165556B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ErmPower.FileReader.Core", "ErmPower.FileReader.Core\ErmPower.FileReader.Core.csproj", "{B9507B7F-8794-4FD5-8272-D0B854508C50}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ErmPower.FileReader.Core", "ErmPower.FileReader.Core\ErmPower.FileReader.Core.csproj", "{B9507B7F-8794-4FD5-8272-D0B854508C50}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
