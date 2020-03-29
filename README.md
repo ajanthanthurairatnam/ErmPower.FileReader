@@ -1,13 +1,13 @@
 # ErmPower.FileReader
-ErmPower.FileReader is a complete solution for reading CSV files and provding the desired output
+ErmPower.FileReader is a complete solution for reading CSV files and providing the desired output
 
 # Overview.
-The solution is constructed following clean architecture paterns with high potential for extendability. The SOLID decipline is applied through out the system. 
+The solution is constructed following clean architecture patterns with high potential for extendibility. The SOLID discipline is applied throughout the system. 
 
 # Layers
-The System is desined in a Multilayered Architcture.
+The System is designed in a Multilayered Architecture.
 
-Infrastrcture
+Infrastructure
 -------------
 The infrastructure layer is how the data that is initially held in domain entities. This layer consists with three Class Libraries.
 
@@ -27,7 +27,7 @@ ApplicationCore
 The core business logic is preserved here. 
  
 ErmPower.FileReader.Business
-Business rules are applied with the potential to extention. 
+Business rules are applied with the potential to extension. 
 Dependencies - ErmPower.FileReader.Data
 
 
